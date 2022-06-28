@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"F:\\ProgramFiles\\Projects\\Repository\\UnrealEngine4\\unrealengine4\\TopDownShooter\\Source\\TopDownShooter\\TopDownShooter.Build.cs",
-		"F:\\ProgramFiles\\Projects\\Repository\\UnrealEngine4\\unrealengine4\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
-		"F:\\ProgramFiles\\Projects\\Repository\\UnrealEngine4\\unrealengine4\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}

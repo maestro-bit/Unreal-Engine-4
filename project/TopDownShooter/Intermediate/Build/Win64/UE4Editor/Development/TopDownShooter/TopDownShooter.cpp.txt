@@ -1,2 +1,0 @@
-F:\ProgramFiles\Projects\Repository\UnrealEngine4\unrealengine4\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
-F:\ProgramFiles\Projects\Repository\UnrealEngine4\unrealengine4\TopDownShooter\Source\TopDownShooter\TopDownShooter.h
