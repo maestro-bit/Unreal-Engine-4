@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownShooter",
+			"Path": "F:\\ProgramFiles\\Projects\\Repository\\UnrealEngine4\\unrealengine4\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownShooterEditor",
+			"Path": "F:\\ProgramFiles\\Projects\\Repository\\UnrealEngine4\\unrealengine4\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
